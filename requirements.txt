@@ -1,0 +1,11 @@
+torch
+pandas
+transformers
+scikit-learn~=0.22.2.post1
+packaging
+numpy
+tqdm
+setuptools
+sentence-transformers
+datasets
+tensorboard
